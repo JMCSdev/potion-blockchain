@@ -1,6 +1,6 @@
 ![The potion logo](/potion.png)
 # Potion Blockchain
-<center>Potion Blockchain is an open-source simple way of making cryptoassets in Python.</center>
+<p style="text-align: center; background: linear-gradient(#ff0000, #0ff000, #00ff00, #000ff0, #0000ff">Potion Blockchain is an open-source simple way of making cryptoassets in Python.</p>
 
 
 ## Setup
